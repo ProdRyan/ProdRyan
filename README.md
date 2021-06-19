@@ -1,6 +1,6 @@
 ### Hola, Soy Netting 👋
 
-- 🔭 Actualmente estoy trabajando en Trading Squad.
+- 🔭 Actualmente estoy trabajando en Craka Squad.
 
 - 🌱 Actualmente estoy aprendiendo C++, Lua & System Hacking.
 
