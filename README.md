@@ -4,7 +4,7 @@
 
 - 🌱 Actualmente estoy aprendiendo C++, Lua & System Hacking.
 
-- 👯 Mi equipo normalmente es Dino, Inusual & Nyxoy.
+- 🏮 Mi equipo normalmente es Dino, Inusual & Nyxoy.
 
 - 💬 Soy Peruano XD, tengo 17 Años & Estudio Hacking.
 
