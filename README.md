@@ -6,7 +6,7 @@
 
 - 🏮 Mi equipo normalmente es Dino, Inusual & Nyxoy.
 
-- 💬 Tengo 17 Años & Estudio Hacking.
+- 💬 David de 17 Años & Estudio Hacking.
 
 - ❗ Me gusta Dormir
 
