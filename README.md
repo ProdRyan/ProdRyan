@@ -6,7 +6,7 @@
 
 - 🏮 Mi equipo normalmente es Dino, Inusual & Nyxoy.
 
-- 💬 Soy Peruano XD, tengo 17 Años & Estudio Hacking.
+- 💬 Tengo 17 Años & Estudio Hacking.
 
 - ❗ Me gusta Dormir
 
