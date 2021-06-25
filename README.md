@@ -1,19 +1,13 @@
-### Hola, Soy Netting 👋
+[![GitHub](https://img.shields.io/github/followers/Ryo069?label=follow&style=social)](https://github.com/Ryo069) ![Profile View Counter](https://komarev.com/ghpvc/?username=Ryo069)
 
-- 🔭 Actualmente estoy trabajando en Craka Squad.
 
-- 🌱 Actualmente estoy aprendiendo C++, Lua & System Hacking.
+<details>
+  <summary align="left">Click me 📬 </summary>
+  <pre>
+  David de 17 años, Estudiante de Informatica
+  </pre>
+</details>
 
-- 🏮 Mi equipo normalmente es Dino, Inusual & Nyxoy.
+[![Gituhub](https://github-readme-stats.vercel.app/api?username=Ryo069&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-- 💬 David de 17 Años & Estudio Hacking.
-
-- ❗ Me gusta Dormir
-
-- ⚡ Soy bueno en Hacking Forensics. (Captura de Trafico & Toma de redes Inalambricas)
-
-- 💫 Me gusta Python & JS, tengo un papel que dice que se PHP XD, & tambien se C# porque antes era Dev de juegos.
-
-### Fiumba 💥
-
-- 💤 Todo esto para mi es solo un pasa tiempo, sera cuestion de tiempo para que me aburra y me dedique a otra cosa.
+[![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryo069&exclude_repo=eslint-config&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
