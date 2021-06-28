@@ -13,4 +13,6 @@
 
 ### YouTube Videos
 
-- [R1P Ivan F. Alias Blxxes [Inusual & xNetting])](https://www.youtube.com/watch?v=O41fJAhqB9c)
+- [R1P Ivan F. Alias Blxxes [Inusual & xNetting]](https://www.youtube.com/watch?v=O41fJAhqB9c)
+
+- [Uso basico de Nmap](https://www.youtube.com/watch?v=PQpsCUlP0po)
