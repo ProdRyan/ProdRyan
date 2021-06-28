@@ -11,3 +11,5 @@
 [![Gituhub](https://github-readme-stats.vercel.app/api?username=xNetting&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=xNetting&exclude_repo=eslint-config&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[youtube]: https://www.youtube.com/channel/UCf-sNj3CPcIBYTk9FjGaDyA/about
