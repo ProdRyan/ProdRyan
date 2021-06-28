@@ -3,7 +3,7 @@
 <details>
   <summary align="left">Click me 📬 </summary>
   <pre>
-  David de 17 años, Estudiante de Informatica
+  David de 17 años, Estudiante de Informatica || Python & JS Dev
   </pre>
 </details>
 
