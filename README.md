@@ -1,4 +1,4 @@
-### Hey, soy xNetting / aka xFullCode 👋
+### Hey, soy xNetting / aka Dalenco 👋
 
 [![GitHub](https://img.shields.io/github/followers/xNetting?label=follow&style=social)](https://github.com/xNetting)    ![Profile View Counter](https://komarev.com/ghpvc/?username=xNetting) 
 
