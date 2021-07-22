@@ -13,7 +13,7 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" height="270px" alt="GIF" src="https://cdn.discordapp.com/attachments/753459740335538272/867577204602961940/cb7fc6466d9994f059eff3361e1deffc.jpg" />
 
 ### Sobre mi
 - 🔭 Me gusta Dormir
