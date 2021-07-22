@@ -9,9 +9,11 @@ davebot.ga
 -------------------------
 Sobremi: No soy activo aqui en Github asi que no subo todo lo que hago
 OS: Windows 10 & Debian GNU/Linux
+Hobbies: Anime & Programar
+-------------------------
 Lenjuages: JavaScript, Python & PHP
 Hacking: HackTheBox, System, Forensics, Wifi & Enterprise
 Aprendiendo: C++, NSE, Java, Pentesting Web & SQL
-Hobbies: Anime & Programar
+-------------------------
 Discord: iNetting;#2021
 ```
