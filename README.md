@@ -1,6 +1,7 @@
 <h4> Hey ¡tu! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
 Soy [Ryan](https://github.com/ProdRyan) pero soy mas conocido como Dave, tengo ya mas de un año de Experiencia como Programador, comenze con Raptor Portable, actualmente ya conozco muchos Lenguajes pero me he enfocado en algunos.
+Ademas de Programador soy un gran intento de Pentester, practico en HTB & THM.
 
  ---
  
