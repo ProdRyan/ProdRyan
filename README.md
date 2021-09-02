@@ -35,6 +35,6 @@ Soy [Ryan](https://github.com/ProdRyan) pero soy mas conocido como Dave, tengo y
 
 <div align="right">
   
-![Contador](https://views.whatilearened.today/views/github/verma-anushka/verma-anushka.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://github.com/ProdRyan/)
+![Contador](https://views.whatilearened.today/views/github/ProdRyan/verma-anushka.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://github.com/ProdRyan/)
 
 </div>
